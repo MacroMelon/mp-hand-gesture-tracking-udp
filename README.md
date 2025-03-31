@@ -2,7 +2,7 @@
 
 Simple handlandmark detection and gesture recognition using mediapipe in python
 
-Also sets up a UDP server that you can get the data from
+Also sets up a UDP server (Open sound control (OSC) protocol) that you can get the data from
 
 For a university project.
 
